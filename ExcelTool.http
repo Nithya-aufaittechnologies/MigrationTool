@@ -1,0 +1,6 @@
+@ExcelTool_HostAddress = http://localhost:5155
+
+GET {{ExcelTool_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
